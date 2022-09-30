@@ -1,0 +1,64 @@
+a{
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+}
+header{
+	width: 1920px;
+    height: 388px;
+    background-color: #0020F4;
+}
+.logo img{
+	width: 115px;
+    height: 65px;
+}
+.navbar-li a {
+	color: #FFFFFF;
+	font-size: 16px;
+}
+#main-photo{
+    width: 1195px;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 15px;
+ }
+ #contact{
+ 	background-color: #FFFFFF;
+ 	width: 160px;
+    height: 55px;
+    border-radius: 28px;
+    color: #171717;
+ }
+ .about h2{
+ 	width: 714px;
+    height: 33px;
+    color: #171717;
+ }
+.section-photo{
+	width: 219px;
+    height: 219px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+.about p{
+	width: 951px;
+	color: #171717;
+}
+.about a{
+	background-color: #0A22F4;
+	width: 341px;
+    height: 55px;
+    border-radius: 28px;
+}
+#section-ad{
+	color: #FFFFFF;
+}
+footer{
+	width: 1920px;
+    height: 1080px;
+    background-color: #0A22F4;
+}
+div{
+	color: #FFFFFF;
+}
